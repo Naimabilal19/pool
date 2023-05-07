@@ -1,0 +1,10 @@
+C:\Users\naima\source\repos\pool\pool\obj\Debug\pool.csproj.AssemblyReference.cache
+C:\Users\naima\source\repos\pool\pool\obj\Debug\WindowsFormsApp_21._04._2023_HM.Form1.resources
+C:\Users\naima\source\repos\pool\pool\obj\Debug\pool.Properties.Resources.resources
+C:\Users\naima\source\repos\pool\pool\obj\Debug\pool.csproj.GenerateResource.cache
+C:\Users\naima\source\repos\pool\pool\obj\Debug\pool.csproj.CoreCompileInputs.cache
+C:\Users\naima\source\repos\pool\pool\bin\Debug\pool.exe.config
+C:\Users\naima\source\repos\pool\pool\bin\Debug\pool.exe
+C:\Users\naima\source\repos\pool\pool\bin\Debug\pool.pdb
+C:\Users\naima\source\repos\pool\pool\obj\Debug\pool.exe
+C:\Users\naima\source\repos\pool\pool\obj\Debug\pool.pdb
